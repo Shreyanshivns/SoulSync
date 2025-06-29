@@ -58,4 +58,3 @@ requirements.txt: Python dependencies for the project.
 - Global Expansion: Tailor the platform for global reach and diverse healthcare needs.
 - AI-Driven Drug Discovery: Investigate AI applications in drug discovery for personalized medication.
 
-# SoulSync
