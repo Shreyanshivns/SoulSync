@@ -29,7 +29,6 @@ To run this project locally, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   <!-- git clone https://github.com/SauravMukherjee44/AI-HealthCare-Hub.git -->
    git clone https://github.com/Shreyanshivns/SoulSync.git
 
 ## Navigate to the project directory:
